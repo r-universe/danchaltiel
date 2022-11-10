@@ -1,10 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/danchaltiel/universe
 	shallow = true
 	branch = HEAD
 [submodule "crosstable"]
 	path = crosstable
-	url = https://github.com/danchaltiel/crosstable
+	url = https://github.com/DanChaltiel/crosstable
+	shallow = true
+	registered = true
+[submodule "crosstableAssistant"]
+	path = crosstableAssistant
+	url = https://github.com/DanChaltiel/crosstableAssistant
+	shallow = true
+	registered = true
+[submodule "EDCimport"]
+	path = EDCimport
+	url = https://github.com/DanChaltiel/EDCimport
+	shallow = true
+	registered = true
+[submodule "nih.joinpoint"]
+	path = nih.joinpoint
+	url = https://github.com/DanChaltiel/nih.joinpoint
 	shallow = true
 	registered = true

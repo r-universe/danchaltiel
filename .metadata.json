@@ -2,5 +2,14 @@
   {
     "package": "crosstable",
     "oncran": true
+  },
+  {
+    "package": "crosstableAssistant"
+  },
+  {
+    "package": "EDCimport"
+  },
+  {
+    "package": "nih.joinpoint"
   }
 ]
