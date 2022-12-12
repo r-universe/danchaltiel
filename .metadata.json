@@ -7,7 +7,8 @@
     "package": "crosstableAssistant"
   },
   {
-    "package": "EDCimport"
+    "package": "EDCimport",
+    "oncran": true
   },
   {
     "package": "nih.joinpoint"
