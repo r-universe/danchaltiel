@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/danchaltiel/universe
 	branch = HEAD
+[submodule "EDCimport"]
+	path = EDCimport
+	url = https://github.com/DanChaltiel/EDCimport
 [submodule "crosstable"]
 	path = crosstable
 	url = https://github.com/DanChaltiel/crosstable
 [submodule "crosstableAssistant"]
 	path = crosstableAssistant
 	url = https://github.com/DanChaltiel/crosstableAssistant
-[submodule "EDCimport"]
-	path = EDCimport
-	url = https://github.com/DanChaltiel/EDCimport
 [submodule "nih.joinpoint"]
 	path = nih.joinpoint
 	url = https://github.com/DanChaltiel/nih.joinpoint
