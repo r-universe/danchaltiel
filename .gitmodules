@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/danchaltiel/universe
+	url = https://github.com/danchaltiel/danchaltiel.r-universe.dev
 	branch = HEAD
 [submodule "EDCimport"]
 	path = EDCimport
